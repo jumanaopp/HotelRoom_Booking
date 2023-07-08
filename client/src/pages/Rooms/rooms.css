@@ -1,0 +1,19 @@
+.room-item {
+    /* flex-basis: 25%;
+    padding: 10PX;
+    min-width: 200PX;
+    margin-bottom: 50PX; */
+    /* transform: translateX(-195%); */
+    transition: transform 0.5s;
+    }
+
+    .room-item:hover{
+        transition: all 0.3s ease-out;
+        transform: translateY(-10px);
+    }
+
+    p{
+        color: rgb(240, 58, 58);
+        float: right;
+    }
+
